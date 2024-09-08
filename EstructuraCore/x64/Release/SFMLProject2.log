@@ -1,0 +1,24 @@
+﻿  AudioManager.cpp
+  Bullet.cpp
+  Core.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\Player.h(4,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\Core.cpp(23,40): warning C4244: 'argumento': conversión de 'const float' a 'unsigned int'; posible pérdida de datos
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\Core.cpp(23,28): warning C4244: 'argumento': conversión de 'const float' a 'unsigned int'; posible pérdida de datos
+  Enemy.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\Enemy.cpp(22,31): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+  FontManager.cpp
+  Game.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\Player.h(4,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  InputManager.cpp
+  main.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\Player.h(4,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Player.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\Player.h(4,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Renderer.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\Enemy.cpp(57): warning C4172: devolución de dirección de la variable local o temporal
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\FontManager.cpp(38): warning C4715: 'FontManager::GetFont': no todas las rutas de acceso de control devuelven un valor
+  All 940 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  SFMLProject2.vcxproj -> C:\Users\dario\Desktop\SFML\EstructuraCore - Game3\x64\Release\EstructuraCore.exe
